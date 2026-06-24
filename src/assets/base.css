@@ -1,7 +1,7 @@
 
 @font-face {
     font-family: 'taff';
-    src: url('./taff.otf') format('opentype');
+    src: url('font/taff.otf') format('opentype');
     font-weight: normal;
 }
 
