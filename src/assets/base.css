@@ -1,0 +1,10 @@
+
+@font-face {
+    font-family: 'taff';
+    src: url('./taff.otf') format('opentype');
+    font-weight: normal;
+}
+
+:root {
+    --main: taff;
+}
